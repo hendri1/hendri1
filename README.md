@@ -3,6 +3,7 @@
 
 [![Linkedin: Hendri Faisal Hidayat](https://img.shields.io/badge/-hendrifaisalhidayat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hendrifaisalhidayat/)](https://www.linkedin.com/in/hendrifaisalhidayat/)
 [![GitHub Hendri Faisal Hidayat](https://img.shields.io/github/followers/hendri1?label=follow&style=social)](https://github.com/hendri1)
+![](https://komarev.com/ghpvc/?username=hendri1)
 
 <p>Hello, I'm Hendri Faisal Hidayat, Software Engineer from Bandung, Indonesia <img alt="Indonesia" width="22px" src="https://cdn.webshopapp.com/shops/94414/files/54029380/indonesia-flag-icon-free-download.jpg">. Currently, I'm a Software Engineer, Fronted at <a href='https://mekari.com/'>Mekari</a>.</p>
   
