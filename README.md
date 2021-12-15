@@ -9,12 +9,12 @@
   
 **About Myself:**
 
-- 💻 I’m currently working on [react-boilerplate](https://github.com/hendri1/react-boilerplate)
+- 💻 I’m currently working on [vue-design-component](https://github.com/hendri1/vue-design-component)
 - 🌱 I’m currently learning about UI/UX
-- 👯 I’m looking to collaborate on [react-boilerplate](https://github.com/hendri1/react-boilerplate) 🤝
+- 👯 I’m looking to collaborate on [vue-design-component](https://github.com/hendri1/vue-design-component) 🤝
 - 💬 Ask me about anything, I am happy to help and sharing
 - 📫 How to reach me: <a href="mailto:hendrifaisal18@gmail.com?subject=Hello%20Hendri,%20I%20found%20you%20at%github">Mail me</a>
-- 📝 [Resume](https://1drv.ms/w/s!AiI9iq80grQMgwYhxSr139QQrOrP?e=DOfZdT)
+- 📝 [Resume](https://1drv.ms/b/s!AiI9iq80grQMgyQwHn5OtQg53uo9)
 
 **Languages and Tools:**  
 - Frontend
