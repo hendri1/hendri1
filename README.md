@@ -13,8 +13,8 @@
 - 🌱 I’m currently learning about UI/UX and Mobile devlopment
 - 👯 I’m looking to collaborate on [react-boilerplate](https://github.com/hendri1/react-boilerplate) 🤝
 - 💬 Ask me about anything, I am happy to help and sharing
-- 📫 How to reach me: <a href="mailto:hendrifaisal18@gmail.com?subject=Hello%20Hendri,%20I%20found%20you%20at%github">Mail me</a>
-- 📞 Need call with me: <a href="https://calendly.com/hendrifaisal/pitching">Call me</a>
+- 📫 How to reach me: <a href="mailto:hendrifaisal18@gmail.com?subject=Hello%20Hendri,%20I%20found%20you%20at%20github">Mail me</a>
+- 📞 Need call with me: <a href="https://calendly.com/hendrifaisal/pitching" target="_blank">Call me</a>
 
 **Languages and Tools:**  
 - Frontend
